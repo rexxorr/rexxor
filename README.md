@@ -1,61 +1,85 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Sanket Rauniyar</h1>
+<h3 align="center">Deveoper</h3>
 
-###
-
-<h2 data-importer="text" align="left">Hi 👋! My name is Sanket Rauniyar and I'm a Developer, from Nepal</h2>
-
-###
-
-<div data-importer="stats" align="center">
-</div>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-<img data-importer="image" align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div data-importer="socials" align="left">
-  <a href="https://discord.com/users/655237700290347008" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=rexxorr">
+    <img src="https://komarev.com/ghpvc/?username=rexxorr&label=Profile%20views&color=00FFFF&style=flat-square" alt="rexxorr's profile views" />
   </a>
-  <a href="wagongaming313@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</p>
+
+## 📌 About Me
+- I am learning C, DevOPS, AI/ML
+- I love Gaming
+- I love developing
+
+
+## 🧠 My Focus Areas
+- Software Development
+- AI/ML
+- DevOPS
+- Cyber Security
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/rexxorr">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rexxorr&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="rexxorr's GitHub Stats" />
   </a>
-</div>
+  <img src="https://streak-stats.demolab.com/?user=rexxorr&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="rexxorr's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=rexxorr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sanket Rauniyar's GitHub Trophies" />
+</p>
 
-###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+## 🛠️ Languages & Tools
 
-###
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
-</div>
+</p>
 
-###
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
 
-<p data-importer="text" align="left">Hello I love Gaming</p>
+</p>
 
-###
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/rexxorr">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rexxorr&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
